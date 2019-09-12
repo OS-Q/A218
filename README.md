@@ -6,7 +6,7 @@
 
 ### [Framework描述](https://github.com/OS-Q/N8/wiki) 
 
-[Framework N8](https://github.com/OS-Q/N8) 用于支持Texas Instruments 控制器平台运行类arduino，本仓库针对自动化编程进行优化，便于自动识别深度结合，可能会牺牲部分代码的可阅读性，学习使用本资源可以参考原工程 http://energia.nu/reference/
+[Framework N8](https://github.com/OS-Q/N8) 用于支持Texas Instruments 控制器平台运行类arduino，本仓库针对自动化导入编程进行优化，可能会牺牲部分可阅读性，学习使用本资源细节建议参考原工程 http://energia.nu/reference/
 
 ### [关联资源](https://github.com/OS-Q/)
 
